@@ -1,2 +1,6 @@
-# bank_queue
-A simple bank queue simulation i made in Python. Currently bugged.
+# Bank Queue amde in Python
+A simple bank queue simulation i made in Python.
+
+  Currently bugged, writes infinite amount of customers.
+
+  Also possible infinite time loop.
